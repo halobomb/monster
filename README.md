@@ -33,9 +33,9 @@ world record above 190 score (in old&hard version)
 ---
 **small updates like:**
 
-- [x] ~~online~~ *(havent players & avaible server)*
+- [x] online
 - [ ] attack list's control
-- [ ] customize *(skins, more colors)*
+- [x] customize *(skins, more colors)*
 - [x] bots
 - [x] smart bots
 - [x] smart bots without autism
@@ -44,6 +44,7 @@ world record above 190 score (in old&hard version)
 - [ ] ~~leaderboard~~ *(havent players & avaible server)*
 - [x] cross platform *(android, windows, calculator, real life)*
 - [x] AFK Mode for lazy
+- [x] Social features *(IGN, Emoji Chat in the game)*
 
 ---
 fun image btw
