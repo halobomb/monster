@@ -3,6 +3,8 @@
 
 ## [PLAY NOW (web version)](https://halobomb.github.io/monster/game/ "click to play")
 [Download (android)](https://github.com/halobomb/monster/releases/latest/ "yes this RAT STEALER MINER LOGGER")
+
+(its the last public version. no more public updates because game content is against the rules)
 ### requirements:
 - `WebGL`
 ---
